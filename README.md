@@ -1,3 +1,13 @@
+## THIS PROJECT IS ARCHIVED 
+
+Intel will not provide or guarantee development of or support for this project, including but not limited to, maintenance, bug fixes, new releases or updates. 
+
+Patches to this project are no longer accepted by Intel.   
+
+This project has been identified as having known security issues. 
+
+Contact: webadmin@linux.intel.com
+
 ***Note: We have merged Analytics Zoo into [BigDL 2.0](https://github.com/intel-analytics/BigDL/issues/4085), and our future development will move to the [BigDL](https://github.com/intel-analytics/BigDL) project***
 
 
